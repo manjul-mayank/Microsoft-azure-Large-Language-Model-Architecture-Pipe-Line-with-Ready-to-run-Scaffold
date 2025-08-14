@@ -1,3 +1,28 @@
+
+# 🚀 Azure LLM Pipeline Scaffold: RAG + OpenAI + Serverless
+
+**Deploy a production-ready LLM pipeline on Azure in minutes!**  
+✨ *Retrieval-Augmented Generation (RAG), Azure OpenAI, AI Search, and Functions—fully integrated.*
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org)
+[![Azure Ready](https://img.shields.io/badge/Azure-Ready-0089D6)](https://azure.microsoft.com)
+![GitHub stars](https://img.shields.io/github/stars/your-repo?style=social)
+
+## 📊 Architecture Flow
+![Azure LLM Pipeline Architecture](azure_llm_arch_flow_full%20chart.png)
+*Example: Querying a refund policy with AI-powered retrieval.*
+
+---
+
+## 🔥 Features
+- **End-to-End RAG Pipeline**: From documents to AI answers.
+- **Serverless Deployment**: Scalable via Azure Functions.
+- **Hybrid Search**: Vector + keyword retrieval with Azure AI Search.
+- **Plug & Play**: Add your data, tweak prompts, deploy.
+
+---
+
 # Azure LLM App — Architecture Flow (1→7)
 
 This scaffold demonstrates the end-to-end flow:
